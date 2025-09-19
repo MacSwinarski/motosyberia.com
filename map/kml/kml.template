@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.0">
+<Document>
+   <Style id="style1">
+    <LineStyle>
+      <color>CC0000FF</color>
+      <width>5</width>
+    </LineStyle>
+  </Style>
+  <Placemark>
+    <name>Start</name>
+    <description>MotoSyberia2007 Start 16.VI.2007</description>
+    <Point>
+    <coordinates>18.58810411416371,54.3878449282964,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Magadan</name>
+    <description>Magadan</description>
+    <Point>
+    <coordinates>150.8092722532255,59.5602917893322,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Anadyr</name>
+    <description>Anadyr</description>
+    <Point>
+    <coordinates>176.9764532571009,64.46348138561999,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>MotoSyberia2007</name>
+    <styleUrl>#style1</styleUrl>
+    <LineString>
+      <coordinates>
+[COORDINATES]
+      </coordinates>
+    </LineString>
+  </Placemark>
+[PLACEMARKS]
+</Document>
+</kml>

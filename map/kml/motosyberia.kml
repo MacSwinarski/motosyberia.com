@@ -1,0 +1,11 @@
+<kml xmlns="http://earth.google.com/kml/2.0">
+<Document>
+    <Placemark>
+    <name>Start</name>
+    <description>MotoSyberia2007 Start 16.VI.2007</description>
+    <Point>
+    <coordinates>18.58810411416371,54.3878449282964,0</coordinates>
+    </Point>
+    </Placemark>
+</Document>
+</kml>

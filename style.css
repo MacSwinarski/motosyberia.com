@@ -1,0 +1,156 @@
+body {
+    text-decoration: none;
+    text-align: justify;
+    font-family: Georgia, Verdana;
+    font-size: 12px;
+    font-weight:normal;
+}
+
+.text {
+    text-decoration: none;
+    text-align: justify;
+    font-family: Georgia, Verdana;
+    font-size: 12px;
+    font-weight:normal;
+}
+
+
+.dvd1 {
+    text-decoration: none;
+    text-align: right;
+    font-style:italic;
+    font-family: Georgia, Verdana;
+    font-size: 12px;
+    font-weight:normal;
+}
+
+
+.dvd2 {
+    text-decoration: none;
+    text-align: right;
+    font-family: Georgia, Verdana;
+    font-size: 11px;
+    font-weight:normal;
+}
+
+a {
+    text-decoration: none;
+    font-weight: bold;
+    color: #DA251C;
+}
+
+a:link {
+    color: #DA251C;
+}
+
+a:visited {
+    color: #DA251C;
+}
+
+a:hover {
+    color: #FFF500;        
+}
+a:active {
+    color: #FFF500;        
+}
+a:focus {
+    color: #FFF500;        
+}
+
+#menuPanel ul {
+        background-color: #A4C0CB;
+        text-align: center;
+        margin: 0;
+        padding: 0;
+        margin-left: 0;
+        padding-left: 0;
+}
+
+#menuPanel li {
+        list-style-type: none;
+        padding: 0.25em 1em;
+        color: #FFF500;
+        display:inline;
+}
+
+.countdown {
+	color: #FFF500;        
+	font-weight:bold;
+}
+
+a.menuLink {
+        text-decoration: none;
+        font-family: Impact, Tahoma;
+        font-size:27px;
+        color: #DA251C;
+}
+
+a.menuLink:link {
+        color: #DA251C;
+}
+a.menuLink:visited {
+        color: #DA251C;
+}
+a.menuLink:hover {
+        color: #FFF500;        
+}
+a.menuLink:active {
+        color: #FFF500;        
+}
+a.menuLink:focus {
+        color: #FFF500;        
+}
+
+a.menuLinkOn {
+        text-decoration: none;
+        font-family: Impact, Tahoma;
+        font-size:27px;
+        color: #DA251C;
+}
+
+a.menuLinkOn:link {
+        color: #FFF500;
+}
+a.menuLinkOn:visited {
+        color: #FFF500;
+}
+a.menuLinkOn:hover {
+        color: #DA251C;
+}
+a.menuLinkOn:active {
+        color: #DA251C;
+}
+a.menuLinkOn:focus {
+        color: #DA251C;
+}
+
+h1 {
+    background-color: #DA251C;
+    text-decoration: none;
+    text-align: center;
+    font-family: Impact, Tahoma;
+    font-size:25px;
+    font-weight:normal;
+    color: #FFF500;
+    margin-left: 0;
+    padding-left: 0;
+}
+
+h2 {
+    text-align: left;
+}
+
+
+.duzy {
+    background-color: #DA251C;
+    text-decoration: none;
+    text-align: center;
+    font-family: Impact, Tahoma;
+    font-size:25px;
+    font-weight:normal;
+    color: #FFF500;
+    margin-left: 0;
+    padding-left: 0;
+}
+
+
